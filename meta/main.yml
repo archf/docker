@@ -1,0 +1,32 @@
+---
+galaxy_info:
+  author: Felix Archambault
+  description: Install docker on a target machine.
+  license: MIT
+  min_ansible_version: 1.2
+  #platforms:
+  #- name: EL
+  #  versions:
+  #  - 7
+  #- name: Fedora
+  #  versions:
+  #  - 21
+  #  - 22
+  #- name: Ubuntu
+  #  versions:
+  #  - trusty
+  #  - utopic
+  #  - vivid
+  #- name: Debian
+  #  versions:
+  #  - jessie
+  #  - wheezy
+  #categories:
+  #- cloud
+  #- development
+  #- system
+dependencies: []
+  # List your role dependencies here, one per line.
+  # Be sure to remove the '[]' above if you add dependencies
+  # to this list.
+

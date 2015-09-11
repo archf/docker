@@ -1,0 +1,6 @@
+---
+# file: vars/RedHat.yml for docker role
+
+docker_packages:
+  - docker
+  - fedora-dockerfiles
