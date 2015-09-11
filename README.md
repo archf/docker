@@ -31,7 +31,7 @@ Example Playbook
 
 - hosts: servers
   roles:
-      - { role: archf.docker, x: 42 }
+      - { role: archf.docker }
 
 License
 -------
